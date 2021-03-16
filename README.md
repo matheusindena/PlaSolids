@@ -1,0 +1,2 @@
+# PlaSolids
+ Pla Solids is a free and open-source educational software with the goal to help teachers and students inserted in the spatial geometry teaching and learning process, specifically the platonic solids. To achieve this goal, Pla Solids offers a tridimensional space where the user can see and handle each of the platonic solids, as also study their process of solidification and planification by animating them and some more functionalities.
